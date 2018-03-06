@@ -1,6 +1,6 @@
 ReactJS - Areaspline Chart using HighCharts
 
-![alt text](https://github.com/kumarargutech/react-pie-highcharts/blob/master/public/areaspline-chart.png)
+![alt text](https://github.com/kumarargutech/react-areaspline-highcharts/blob/master/public/areaspline-chart.png)
 
 
 Following the steps :
